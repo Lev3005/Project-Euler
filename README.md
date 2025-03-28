@@ -6,6 +6,7 @@
 
 1) Multiples of 3 or 5
 2) Even Fibonacci Numbers
+3) Largest Prime Factor
 
 
 
@@ -17,3 +18,4 @@ List of completed tasks:
 
 1) Multiples of 3 or 5
 2) Even Fibonacci Numbers
+3) Largest Prime Factor
